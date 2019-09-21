@@ -1,0 +1,21 @@
+body {
+	background-color: #eaeaea;
+	margin-top: 20px;
+}
+.container {
+	width: 600px;
+	background-color: #fff;
+	margin-top: 40px;
+	padding: 20px;
+	border-radius: 20px 20px 20px 20px;
+
+}
+.container, label {
+	font-family: arial verdana;
+}
+h1 {
+	text-align: center;
+}
+a {
+	color: #fff;
+}

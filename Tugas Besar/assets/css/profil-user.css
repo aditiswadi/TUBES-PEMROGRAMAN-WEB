@@ -1,0 +1,47 @@
+body {
+  background-color: #eaeaea;
+  padding: 20px;
+}
+form {
+   margin-left: 40%;
+}
+.isi {
+  padding: 20px;
+  text-align: center;
+}
+.header {
+  font-family: "Comic Sans MS";
+  font-size: 40px;
+  text-align: center;
+}
+.container {
+  position: relative;
+  width: 700px;
+  background-color: #A9A9A9;
+  padding: 20px 20px 10px 20px;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+.content {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.gambar img {
+  width: 300px;
+  border-radius: 50%;
+  padding: 20px;
+  margin-left: 150px;
+}
+.nama a {
+  font-size: 40px;
+  text-align: center;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+  color: #191970;
+}
+.row p {
+	font-weight: bold;
+	text-align: left;
+}
